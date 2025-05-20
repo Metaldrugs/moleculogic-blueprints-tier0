@@ -1,0 +1,23 @@
+{
+  "compound_id": "MDC-DOX-001",
+  "origin": "Doxorubicin",
+  "metal_core": "Mn²⁺",
+  "coordination": "hexadentate cage",
+  "ros_buffering": true,
+  "entropy_class": "Moderate",
+  "cardiac_toxicity_index": 0.18,
+  "topoisomerase_affinity": {
+    "IIα": 0.89,
+    "IIβ": 0.36
+  },
+  "sei_overlay": {
+    "entropy_score": 0.52,
+    "risk_flags": [],
+    "explanation": "Logic-buffered analog of Doxorubicin that suppresses ROS and off-target cardiac interactions through rational Mn²⁺ coordination.",
+    "activation_logic": "pH and redox-triggered release in tumor microenvironment"
+  },
+  "created_by": "SEI-Moleculogic",
+  "tier": "Tier 0",
+  "public": true,
+  "timestamp": "20250520T224500"
+}
