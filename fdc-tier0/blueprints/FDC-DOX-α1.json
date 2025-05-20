@@ -1,0 +1,21 @@
+{
+  "compound_id": "FDC-DOX-α1",
+  "origin": "Doxorubicin",
+  "redox_core_removed": true,
+  "activation_mode": "pH-sensitive PEG linker",
+  "cardiac_penetration_score": 0.14,
+  "topoisomerase_affinity": {
+    "IIα": 0.86,
+    "IIβ": 0.22
+  },
+  "sei_overlay": {
+    "entropy_class": "Targeted",
+    "entropy_score": 0.38,
+    "risk_flags": [],
+    "explanation": "FDC analog of Doxorubicin featuring redox elimination, cardiac de-targeting, and tumor-triggered unmasking via cleavable linker."
+  },
+  "created_by": "SEI-Moleculogic",
+  "tier": "Tier 0",
+  "public": true,
+  "timestamp": "20250520T231100"
+}

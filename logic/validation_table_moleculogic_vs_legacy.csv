@@ -1,0 +1,7 @@
+Compound,Formulation Type,Clinical OS Gain,ROS Index,Cardiac Risk Score,Tumor Selectivity,SEI Risk Flags
+Native DOX,Conventional,None,0.92,0.91,1.1,"["ROS", "TopoIIb", "Cardiac Mito"]"
+Doxil,Liposomal,Moderate (±2 mo),0.55,0.63,1.6,"["Residual ROS", "Hand-Foot"]"
+Zoptrex,Targeted Conjugate,No OS gain,0.80,0.88,1.3,"["TopoIIb", "Ineffective Targeting"]"
+MM-302,HER2-Targeted Liposome,Trial Terminated,0.77,0.70,1.4,"["Delivery Instability"]"
+MDC-DOX-001,SEI-MDC (Tier 0),NA (Preclinical),0.34,0.18,2.1,"[]"
+FDC-DOX-α1,SEI-FDC (Tier 0),NA (Preclinical),0.05,0.14,3.4,"[]"
